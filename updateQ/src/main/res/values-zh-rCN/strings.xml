@@ -1,0 +1,23 @@
+<resources>
+    <string name="versionchecklib_download_apkname">%s.apk</string>
+    <string name="versionchecklib_update">更新</string>
+    <string name="versionchecklib_cancel">取消</string>
+    <string name="versionchecklib_retry">重试</string>
+    <string name="versionchecklib_exit">退出</string>
+    <string name="versionchecklib_permission">授权</string>
+    <string name="versionchecklib_lowversion_update">版本太低，需要更新</string>
+    <string name="versionchecklib_newversion_update">发现新的版本，是否去更新?</string>
+    <string name="versionchecklib_download_fail_retry">下载失败是否重试？</string>
+    <string name="versionchecklib_download_net_download">网页下载</string>
+    <string name="versionchecklib_downloading">正在下载...</string>
+    <string name="versionchecklib_check_new_version">检测到新版本</string>
+    <string name="versionchecklib_download_progress">下载进度:%d%%/100%%</string>
+    <string name="versionchecklib_progress">%d/100</string>
+    <string name="versionchecklib_write_permission_deny">下载安装包需要读写文件权限，请授权</string>
+    <string name="versionchecklib_ready_update">是否升级到%s版本？</string>
+    <string name="versionchecklib_update_permission">版本更新需要授权访问存储空间权限</string>
+    <string name="versionchecklib_cancel_update">取消更新</string>
+    <string name="versionchecklib_update_failed">更新失败</string>
+    <string name="versionchecklib_unknown_resource_refuse">您拒绝了安装未知来源应用，应用暂时无法更新！</string>
+    <string name="versionchecklib_click_notification">请点击通知栏完成应用的安装</string>
+</resources>
